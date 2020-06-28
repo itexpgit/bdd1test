@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="24.146558">
+<testcase classname="Inchins Bamboo Garden Order food with Catering and Bulletin Test Feature" name="Inchins Bulletin Test Scenario" time="24.146558">
+<system-out><![CDATA[Given user is already on Bulletin Home Page.................................passed
+Then user enters data name emaile...........................................passed
+Then user clicks on Schaumburg on Select Location Page......................passed
+Then user enters captcha code on Bulletin Page..............................passed
+Then user clicks on Submit Form on Bulletin Page............................passed
+Then user closes the browser for bulletin...................................passed
+]]></system-out>
+</testcase>
+</testsuite>
